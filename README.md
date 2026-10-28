@@ -18,3 +18,5 @@ Sissejuhatus erialasse veebilehe projekti tiim samma repo.
 - Retsepti list
 - Detail vaade
 - Koduleht
+
+![pilt](image.png)
