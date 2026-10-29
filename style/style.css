@@ -31,7 +31,7 @@ nav .random {
   margin-left: auto;
 }
 
-section {
+section div.container {
   width: 100%;
   display: grid;
   grid-template-columns: 16rem auto;

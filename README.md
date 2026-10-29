@@ -19,4 +19,4 @@ Sissejuhatus erialasse veebilehe projekti tiim samma repo.
 - Detail vaade
 - Koduleht
 
-![pilt](image.png)
+![pilt](images/image.png)
