@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+  --success: #9ebc9e;
+  --failure: #ff5f5c;
+  --text-main: #333138;
+  --secondary: #157145;
+  --white: #fff;
+  --primary: #f6f6f6;
+}
+
+body {
+  margin: 0px;
+
+  font-family: montserrat, sans-serif;
+  font-size: 16px;
+  color: var(--text-main);
+
+  background-color: var(--white);
+}
+
+nav {
+    background-color: var(--white);
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: var(--secondary) 4px solid;  
+}
+
+.pealkirjad {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    font-size: 64px;
+}
+
+.kirjeldus {
+    font-size: 24px;
+}
+
+.tabel {
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
