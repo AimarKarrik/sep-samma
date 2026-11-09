@@ -24,3 +24,5 @@ Tiim samma valis veebileheks teha tudengi kokaraamatu. Tudengitel sageli ei ole 
 - Koduleht
 
 ![pilt](images/image.png)
+
+Vaatasime üle otsustatud käitumisnormid ja otsustasime, et need on ikka olulised meile ning praegu pole vaja midagi muuta.
