@@ -2,6 +2,10 @@
 
 Sissejuhatus erialasse veebilehe projekti tiim samma repo.
 
+### Lehe selgitus
+
+Tiim samma valis veebileheks teha tudengi kokaraamatu. Tudengitel sageli ei ole palju aega ja raha, seega siia kokaraamatusse soovime koguda retsepte, mis sobivad nende tingimustega.
+
 ### Funktsionaalsus
 
 - Nimi
